@@ -1,6 +1,6 @@
 [[redirects]]
-  from = "/_next/*"
-  to = "/.next/*"
+  from = "/"
+  to = "/index.html"
   status = 200
 
   
