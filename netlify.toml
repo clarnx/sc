@@ -4,7 +4,7 @@
 
 [[redirects]]
   from = "/"
-  to = "/index.html"
+  to = "/server/pages/index.html"
   status = 200
 
 [[plugins]]
