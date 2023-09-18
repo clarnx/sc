@@ -1,0 +1,8 @@
+[[redirects]]
+  from = "/_next/*"
+  to = "/*"
+  status = 200
+
+  
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
